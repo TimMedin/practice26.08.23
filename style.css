@@ -1,0 +1,18 @@
+.nav-item:not(:last-child) {
+    margin-right: 110px;
+}
+
+.nav-link {
+    color: black;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; 
+    letter-spacing: 0.2px;
+}
+
+.nav-link:hover {
+    color: #FA4A0C;
+}
